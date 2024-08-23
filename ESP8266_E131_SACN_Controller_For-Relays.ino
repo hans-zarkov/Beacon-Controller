@@ -1,6 +1,6 @@
 // ESP SACN controller for relays
 // This is used to control the Beacon relay board
-// Uses the E131 Library from ForkinEye - https://github.com/forkineye/ESPAsyncE131
+// Uses the ESPAsyncE131 library from ForkinEye - https://github.com/forkineye/ESPAsyncE131
 
 #include <ESPAsyncE131.h>
 
